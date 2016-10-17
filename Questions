@@ -1,6 +1,7 @@
 In Knight Rider, why does each LED require its own pin?
 
-        - Each LED requires it's own pin because each light has it's own specific command of when it needs to turn on or off.
+        - Each LED requires it's own pin because each light has it's own specific command 
+          of when it needs to turn on or off.
           Knight Rider is an extension of blink.
 
 
