@@ -1,0 +1,17 @@
+In Knight Rider, why does each LED require its own pin?
+
+        - Each LED requires it's own pin because each light has it's own specific command opf when it needs to turn on or off.
+
+
+
+Why is Knight Rider 2 in the Arduino tutorial so much shorter than Knight Rider 1?
+
+        - In the first the LEDs are being told to blink eight times over individually like a single LED bulb
+          would. Whereas in the second, a for(;;) function is used to preform the same thing, bu tin fewer
+          lines.
+
+What resistor value should be used with the LEDs?
+
+        - 220 Ohm resistors
+
+
